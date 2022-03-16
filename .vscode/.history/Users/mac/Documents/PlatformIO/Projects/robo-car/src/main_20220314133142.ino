@@ -1,0 +1,19 @@
+#include <Arduino.h>
+
+
+// Left
+const int in_1 = 2 ;
+const int in_2 = 3 ;
+
+// Left
+const int in_3 = 4 ;
+const int in_4 = 5 ;
+
+
+void setup() {
+pinMode(in_1,OUTPUT) ; 	//Logic pins are also set as output
+pinMode(in_2,OUTPUT) ;}
+
+void loop() {
+  // put your main code here, to run repeatedly:
+}
